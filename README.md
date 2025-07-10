@@ -10,7 +10,7 @@
 
 
 # Initial Login
-Route => /api/Auth/login 
+Route => /api/Auth/login  => 
 Default Login
 {
   "email": "admin@global.com",
@@ -19,20 +19,20 @@ Default Login
 
 # Example API requests 
 1. Tenant
-    Route => /api/Tenant/CreateTenant
+    Route => /api/Tenant/CreateTenant => 
     {
         "name": "Example"
     }
 
     //
-    Route => /api/Tenant/GetTenantById/{id}
+    Route => /api/Tenant/GetTenantById/{id} => 
     id: "3fa85f64-5717-4562-b3fc-2c963f66afa6"
 
     //
     Route => /api/Tenant/GetAllTenant
 
 2. Tenant User
-    Route => /api/TenantUser/addEdit
+    Route => /api/TenantUser/addEdit => 
     {
         "tenantId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "email": "example@gmail.com",
@@ -40,11 +40,11 @@ Default Login
     }
 
     //
-    Router => /api/TenantUser/delete
+    Router => /api/TenantUser/delete => 
     tenantId: "3fa85f64-5717-4562-b3fc-2c963f66afa6"
 
 3. Tenant Login
-    Route => /api/Auth/login
+    Route => /api/Auth/login => 
     {
         "tenantId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
         "email": "example@gmail.com",
@@ -52,7 +52,7 @@ Default Login
     }
 
 4. Employee
-    Route => /api/Employee/CreateEmployee
+    Route => /api/Employee/CreateEmployee => 
     {
         "fullName": "John",
         "email": "john@gmail.com",
@@ -65,7 +65,7 @@ Default Login
     Route => /api/Employee/GetAllEmployee
 
     //
-    Route => /api/Employee/YpdateEmployee/{id}
+    Route => /api/Employee/YpdateEmployee/{id} => 
     id: "3fa85f64-5717-4562-b3fc-2c963f66afa6"
     {
         "fullName": "John Doe",
@@ -76,5 +76,5 @@ Default Login
     }
 
     //
-    Router => /api/Employee/DeleteEmployee/{id}
+    Router => /api/Employee/DeleteEmployee/{id} => 
     id: "3fa85f64-5717-4562-b3fc-2c963f66afa6"
