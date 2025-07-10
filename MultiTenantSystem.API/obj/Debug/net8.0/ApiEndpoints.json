@@ -1,0 +1,155 @@
+[
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "MultiTenantSystem.Application.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.EmployeeController",
+    "Method": "Create",
+    "RelativePath": "api/Employee/CreateEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "MultiTenantSystem.Application.DTOs.CreateEmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.EmployeeController",
+    "Method": "Delete",
+    "RelativePath": "api/Employee/DeleteEmployee/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.EmployeeController",
+    "Method": "GetAll",
+    "RelativePath": "api/Employee/GetAllEmployee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.EmployeeController",
+    "Method": "Update",
+    "RelativePath": "api/Employee/UpdateEmployee/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "MultiTenantSystem.Application.DTOs.CreateEmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.TenantController",
+    "Method": "CreateTenant",
+    "RelativePath": "api/Tenant/CreateTenant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MultiTenantSystem.Application.Features.Tenants.Commands.CreateTenantCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.TenantController",
+    "Method": "GetAll",
+    "RelativePath": "api/Tenant/GetAllTenant",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.TenantController",
+    "Method": "GetById",
+    "RelativePath": "api/Tenant/GetTenantById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.TenantUserController",
+    "Method": "AddOrUpdateTenantAdmin",
+    "RelativePath": "api/TenantUser/addEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "MultiTenantSystem.Application.Features.Users.Commands.CreateOrUpdateTenantAdminCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MultiTenantSystem.API.Controllers.TenantUserController",
+    "Method": "DeleteTenantAdmin",
+    "RelativePath": "api/TenantUser/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tenantId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

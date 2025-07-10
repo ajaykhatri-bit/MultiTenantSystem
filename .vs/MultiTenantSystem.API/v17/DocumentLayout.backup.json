@@ -1,0 +1,788 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SumX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\tenants\\commands\\createtenantcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\tenants\\commands\\createtenantcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\tenants\\commands\\createtenantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\tenants\\commands\\createtenantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|d:\\sumx\\multitenantsystem.api\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|solutionrelative:multitenantsystem.api\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|d:\\sumx\\multitenantsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|solutionrelative:multitenantsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|d:\\sumx\\multitenantsystem.api\\controllers\\tenantusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|solutionrelative:multitenantsystem.api\\controllers\\tenantusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\users\\commands\\createorupdatetenantadmincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\users\\commands\\createorupdatetenantadmincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\users\\commands\\createorupdatetenantadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\users\\commands\\createorupdatetenantadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\employee\\commands\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\employee\\commands\\deleteemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\employee\\commands\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\employee\\commands\\updateemployeecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\employee\\queries\\getemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\employee\\queries\\getemployeequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\employee\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\employee\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|d:\\sumx\\multitenantsystem.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|solutionrelative:multitenantsystem.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|d:\\sumx\\multitenantsystem.infrastructure\\services\\tenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|solutionrelative:multitenantsystem.infrastructure\\services\\tenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|d:\\sumx\\multitenantsystem.infrastructure\\identity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|solutionrelative:multitenantsystem.infrastructure\\identity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|d:\\sumx\\multitenantsystem.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|solutionrelative:multitenantsystem.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|d:\\sumx\\multitenantsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|solutionrelative:multitenantsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\interface\\itenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\interface\\itenantprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0D9514-24F5-4CB2-A5CA-9C6A5CBAE457}|MultiTenantSystem.Core\\MultiTenantSystem.Core.csproj|d:\\sumx\\multitenantsystem.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0D9514-24F5-4CB2-A5CA-9C6A5CBAE457}|MultiTenantSystem.Core\\MultiTenantSystem.Core.csproj|solutionrelative:multitenantsystem.core\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\interface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|d:\\sumx\\multitenantsystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|solutionrelative:multitenantsystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\employee\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\employee\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\interface\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\employee\\queries\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\employee\\queries\\getemployeequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|d:\\sumx\\multitenantsystem.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|solutionrelative:multitenantsystem.infrastructure\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|d:\\sumx\\multitenantsystem.infrastructure\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|solutionrelative:multitenantsystem.infrastructure\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\interface\\itenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\interface\\itenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\users\\commands\\deletetenantadmincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\users\\commands\\deletetenantadmincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|d:\\sumx\\multitenantsystem.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|solutionrelative:multitenantsystem.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0D9514-24F5-4CB2-A5CA-9C6A5CBAE457}|MultiTenantSystem.Core\\MultiTenantSystem.Core.csproj|d:\\sumx\\multitenantsystem.core\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0D9514-24F5-4CB2-A5CA-9C6A5CBAE457}|MultiTenantSystem.Core\\MultiTenantSystem.Core.csproj|solutionrelative:multitenantsystem.core\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\tenants\\queries\\getalltenantqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\tenants\\queries\\getalltenantqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\tenants\\queries\\getalltenantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\tenants\\queries\\getalltenantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\tenants\\queries\\gettenantbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\tenants\\queries\\gettenantbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\tenants\\queries\\gettenantbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\tenants\\queries\\gettenantbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0D9514-24F5-4CB2-A5CA-9C6A5CBAE457}|MultiTenantSystem.Core\\MultiTenantSystem.Core.csproj|d:\\sumx\\multitenantsystem.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0D9514-24F5-4CB2-A5CA-9C6A5CBAE457}|MultiTenantSystem.Core\\MultiTenantSystem.Core.csproj|solutionrelative:multitenantsystem.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\features\\users\\commands\\deletetenantadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\features\\users\\commands\\deletetenantadmincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|d:\\sumx\\multitenantsystem.infrastructure\\services\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|solutionrelative:multitenantsystem.infrastructure\\services\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|d:\\sumx\\multitenantsystem.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100364A6-74DB-4DC6-A009-0FC0BDB1FD9A}|MultiTenantSystem.Infrastructure\\MultiTenantSystem.Infrastructure.csproj|solutionrelative:multitenantsystem.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|d:\\sumx\\multitenantsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|solutionrelative:multitenantsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|d:\\sumx\\multitenantsystem.api\\swaggergenoptionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF78C8C9-6EE6-4168-82EE-24D4C6459810}|MultiTenantSystem.API\\MultiTenantSystem.API.csproj|solutionrelative:multitenantsystem.api\\swaggergenoptionsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|d:\\sumx\\multitenantsystem.application\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC94E88-08AA-4EF3-A599-96298AD14867}|MultiTenantSystem.Application\\MultiTenantSystem.Application.csproj|solutionrelative:multitenantsystem.application\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateTenantCommandHandler.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Commands\\CreateTenantCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Tenants\\Commands\\CreateTenantCommandHandler.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Commands\\CreateTenantCommandHandler.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Tenants\\Commands\\CreateTenantCommandHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:42:34.446Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Identity\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Infrastructure\\Identity\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Identity\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MultiTenantSystem.Infrastructure\\Identity\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:50:23.627Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TenantProvider.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Services\\TenantProvider.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Infrastructure\\Services\\TenantProvider.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Services\\TenantProvider.cs",
+              "RelativeToolTip": "MultiTenantSystem.Infrastructure\\Services\\TenantProvider.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:38:24.091Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateOrUpdateTenantAdminCommand.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Users\\Commands\\CreateOrUpdateTenantAdminCommand.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Users\\Commands\\CreateOrUpdateTenantAdminCommand.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Users\\Commands\\CreateOrUpdateTenantAdminCommand.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Users\\Commands\\CreateOrUpdateTenantAdminCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:00:28.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MultiTenantSystem.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:05:13.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.API\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.API\\Controllers\\TenantController.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.API\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "MultiTenantSystem.API\\Controllers\\TenantController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:27:50.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTenantCommand.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Commands\\CreateTenantCommand.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Tenants\\Commands\\CreateTenantCommand.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Commands\\CreateTenantCommand.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Tenants\\Commands\\CreateTenantCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:41:25.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrUpdateTenantAdminCommandHandler.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Users\\Commands\\CreateOrUpdateTenantAdminCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Users\\Commands\\CreateOrUpdateTenantAdminCommandHandler.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Users\\Commands\\CreateOrUpdateTenantAdminCommandHandler.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Users\\Commands\\CreateOrUpdateTenantAdminCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:02:27.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TenantUserController.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.API\\Controllers\\TenantUserController.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.API\\Controllers\\TenantUserController.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.API\\Controllers\\TenantUserController.cs",
+              "RelativeToolTip": "MultiTenantSystem.API\\Controllers\\TenantUserController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:08:23.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Commands\\DeleteEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Employee\\Commands\\DeleteEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Commands\\DeleteEmployeeCommandHandler.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Employee\\Commands\\DeleteEmployeeCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:45:11.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateEmployeeCommandHandler.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Commands\\UpdateEmployeeCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Employee\\Commands\\UpdateEmployeeCommandHandler.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Commands\\UpdateEmployeeCommandHandler.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Employee\\Commands\\UpdateEmployeeCommandHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:28:55.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetEmployeeQueryHandler.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Queries\\GetEmployeeQueryHandler.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Employee\\Queries\\GetEmployeeQueryHandler.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Queries\\GetEmployeeQueryHandler.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Employee\\Queries\\GetEmployeeQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:21:04.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Employee\\Commands\\UpdateEmployeeCommand.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Employee\\Commands\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:26:14.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MultiTenantSystem.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:48:11.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "MultiTenantSystem.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAArwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:56:51.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Core\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Core\\Entities\\Employee.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Core\\Entities\\Employee.cs",
+              "RelativeToolTip": "MultiTenantSystem.Core\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:15:17.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Interface\\IGenericRepository.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\IGenericRepository.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Interface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:06:28.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.API\\Program.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.API\\Program.cs",
+              "RelativeToolTip": "MultiTenantSystem.API\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:57:53.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ITenantProvider.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\ITenantProvider.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Interface\\ITenantProvider.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\ITenantProvider.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Interface\\ITenantProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T15:31:36.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "MultiTenantSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAlwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:07:43.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Employee\\Commands\\DeleteEmployeeCommand.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Employee\\Commands\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:44:11.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:22:14.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Interface\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\IEmployeeRepository.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Interface\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:03:08.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:00:17.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetEmployeeQuery.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Queries\\GetEmployeeQuery.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Employee\\Queries\\GetEmployeeQuery.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Employee\\Queries\\GetEmployeeQuery.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Employee\\Queries\\GetEmployeeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:20:12.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "MultiTenantSystem.Infrastructure\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:04:10.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TenantRepository.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Repositories\\TenantRepository.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Infrastructure\\Repositories\\TenantRepository.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Repositories\\TenantRepository.cs",
+              "RelativeToolTip": "MultiTenantSystem.Infrastructure\\Repositories\\TenantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:10:03.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITenantRepository.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\ITenantRepository.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Interface\\ITenantRepository.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Interface\\ITenantRepository.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Interface\\ITenantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:09:27.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T16:02:09.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteTenantAdminCommandHandler.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Users\\Commands\\DeleteTenantAdminCommandHandler.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Users\\Commands\\DeleteTenantAdminCommandHandler.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Users\\Commands\\DeleteTenantAdminCommandHandler.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Users\\Commands\\DeleteTenantAdminCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:06:01.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Core\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Core\\Entities\\Tenant.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Core\\Entities\\Tenant.cs",
+              "RelativeToolTip": "MultiTenantSystem.Core\\Entities\\Tenant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:46:41.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:06:24.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "MultiTenantSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T14:21:37.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetAllTenantQueryHandler.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetAllTenantQueryHandler.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetAllTenantQueryHandler.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetAllTenantQueryHandler.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetAllTenantQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:31:44.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllTenantQuery.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetAllTenantQuery.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetAllTenantQuery.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetAllTenantQuery.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetAllTenantQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:30:33.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GetTenantByIdQueryHandler.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetTenantByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetTenantByIdQueryHandler.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetTenantByIdQueryHandler.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetTenantByIdQueryHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:29:00.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GetTenantByIdQuery.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetTenantByIdQuery.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetTenantByIdQuery.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetTenantByIdQuery.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Tenants\\Queries\\GetTenantByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:26:12.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteTenantAdminCommand.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Users\\Commands\\DeleteTenantAdminCommand.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\Features\\Users\\Commands\\DeleteTenantAdminCommand.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\Features\\Users\\Commands\\DeleteTenantAdminCommand.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\Features\\Users\\Commands\\DeleteTenantAdminCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:05:08.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Core\\Entities\\User.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Core\\Entities\\User.cs",
+              "RelativeToolTip": "MultiTenantSystem.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:45:01.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Services\\SeedData.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Infrastructure\\Services\\SeedData.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Services\\SeedData.cs",
+              "RelativeToolTip": "MultiTenantSystem.Infrastructure\\Services\\SeedData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T15:54:53.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "MultiTenantSystem.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T18:21:40.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\AssemblyReference.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:38:09.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MultiTenantSystem.API\\appsettings.json",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.API\\appsettings.json",
+              "RelativeToolTip": "MultiTenantSystem.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T16:08:42.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SwaggerGenOptionsExtensions.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.API\\SwaggerGenOptionsExtensions.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.API\\SwaggerGenOptionsExtensions.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.API\\SwaggerGenOptionsExtensions.cs",
+              "RelativeToolTip": "MultiTenantSystem.API\\SwaggerGenOptionsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:43:22.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "D:\\SumX\\MultiTenantSystem.Application\\DTOs\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "MultiTenantSystem.Application\\DTOs\\RegisterUserDto.cs",
+              "ToolTip": "D:\\SumX\\MultiTenantSystem.Application\\DTOs\\RegisterUserDto.cs",
+              "RelativeToolTip": "MultiTenantSystem.Application\\DTOs\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:02:52.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
